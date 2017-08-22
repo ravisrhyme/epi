@@ -1,8 +1,11 @@
 """
 The Look-and-say Problem.
 
-Time Complexity  :
-Space Complexity :
+Look-and-say Sequence : 1,11,12,1112,3112..
+
+Time Complexity  : O(n * k) k is the length of (n-1)th digit in sequence
+Space Complexity : O(k)
+
 """
 __author__  = "Ravi Kiran Chadalawada"
 __email__   = "rchadala@usc.edu"
